@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    background-image: url('./image/mSPU63U.jpg') ;
+    background-size: 100% 135%;
+    background-repeat: no-repeat;
+    margin-top: 150px;
+}
+.container{
+    margin-top: 500px;
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 18px;
+    border: 2px solid #244624;
+    color: black;
+    font-size:24px;
+    height: 50px;
+    width: 300px;
+}
+
+button{
+    border-radius: 10px;
+    border: 1px solid #13695d;
+    font-size: 18px;
+    background: #978fa0;
+    width: 60px;
+    height: 60px;
+    margin: 6px;
+}
+
+.calculator{ 
+    border: 2px solid #13695d;
+    background-color: gray;
+    padding: 7px;
+    display: inline-block;
+    
+}
+
